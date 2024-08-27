@@ -1,1 +1,2 @@
 # Capstone
+<body> I attached the Capstone project I completed to graduate. I discuss a security assessment that was performed at a local company. The security assessment primarily focused on different security controls (phyiscal, logical, and administrative) that I recommeneded from a security assessment checklist that I created. The project is broken down into a summary, review of other work, changes to the proejct environment, methodology, project goals and objectives, project timeline, unanticipated requirements, and project deliverables. </body>
